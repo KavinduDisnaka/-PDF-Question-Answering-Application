@@ -14,3 +14,6 @@ I developed a 𝗣𝗗𝗙 𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻-𝗔𝗻𝘀𝘄𝗲
 📄 Easy PDF uploads. <br>
 ❓ Context-aware, accurate answers to queries.<br> 
 🚀 Fast, efficient, and user-focused experience.<br>
+
+<img src="1.png" alt="User Interface" width="1000" />
+<img src="2.png" alt="Result" width="1000" />
